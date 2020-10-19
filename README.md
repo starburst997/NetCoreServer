@@ -1,5 +1,8 @@
 # NetCoreServer
 
+## JD - Special Branch
+Removed Websocket / HTTP / HTTPS / SSL to make it compatible with Unity (I only cared about UDP / TCP)
+
 [![Linux build status](https://img.shields.io/travis/chronoxor/NetCoreServer/master.svg?label=Linux)](https://travis-ci.com/chronoxor/NetCoreServer)
 [![OSX build status](https://img.shields.io/travis/chronoxor/NetCoreServer/master.svg?label=OSX)](https://travis-ci.com/chronoxor/NetCoreServer)
 [![Windows build status](https://img.shields.io/appveyor/ci/chronoxor/NetCoreServer/master.svg?label=Windows)](https://ci.appveyor.com/project/chronoxor/NetCoreServer)
