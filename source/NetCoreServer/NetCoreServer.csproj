@@ -7,7 +7,7 @@
     <RepositoryUrl>https://github.com/chronoxor/NetCoreServer</RepositoryUrl>
     <Description>Ultra fast and low latency asynchronous socket server &amp; client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <TargetFrameworks>net5.0;netcoreapp3.1;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>netcoreapp5.0;netcoreapp3.1;netstandard2.0</TargetFrameworks>
   </PropertyGroup>
 
   <PropertyGroup>
